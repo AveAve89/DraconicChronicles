@@ -1,0 +1,55 @@
+XX/12/2024 Draconic Chronicles Version 600:
+
+## Bug Fixes:
+- Fixed Fire Wyvern inventory health name.
+- Headless Hydra is no longer immune to fire.
+- Headless Hydra no longer drops talons or wyvern hides.
+- Urn no longer gives mutations.
+- Fixed Hardcore issue with Undead Dragon.
+- Fixed Hardcore issue with Headless Hydra.
+- Fixed a issue with glowbulb plants wanting to spawn at 50.50 if no alive Glowveil is detected.
+
+## Changes:
+- Undead Dragon now generates spoiled meat in its inventory.
+- Flameforge Dragons now poop Everglowing Coal.
+- Collector can now gather Everglowing Coal.
+
+## New Items:
+- Added Everglowing Coal.
+- Added Draconic Generator.
+- Added Draconic Ballista Turret.
+- Added Draconic Ballista Arrow.
+
+## Guide:
+- Page has been added for the Elder Wyvern.
+- The creatures that has a spotlight on our youtube channel now have it linked into the guide with a QR code.
+
+### Guide admin panel:
+- Potion settings are now more clear.
+
+### Custom spawning system:
+- Levels are now selected by our own system instead of Arks bad one.
+- Levels get randomized in 2 different ways for every spawn.
+- Scales automatically with server settings.
+- Admins can now make our creatures spawn at higher level compared to other spawns.
+- Admins can now change minimum level allowed.
+- Admins can now change maximum level allowed.
+- Every type of spawn now has a slightly different spawning speed to reduce the amount of functions being fired at the same time.
+- Wyvernicorn has been added to our spawning system.
+- Sand Dragon has been added to our spawning system.
+- Crystal Wyverns have been added to our spawning system.
+- Hydro Dragon have been added to our spawning system.
+- Fixed Spacing of spawns.
+- Spawns now check certain amount of distance units around the spawn to make sure no other wild dragon is very close before it spawns.
+
+
+## New Dragon:
+
+### Elder Wyvern
+
+- Can glide/dive like a Griffin.
+- Continous Fire Breath.
+- Can stomp on the ground to do AOE damage around it.
+- Can knockback with its roar.
+- Can knockback with its Tail Swipe.
+- Is tamed by gathering a Egg from its nest in the wild (WARNING: It wont be happy if you enter its nest!)
