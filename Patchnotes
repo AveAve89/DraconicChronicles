@@ -1,4 +1,33 @@
-XX/12/2024 Draconic Chronicles Version 600:
+
+16/12/2024 Draconic Chronicles Version 609:
+
+## Bug Fixes:
+- Headless Hydra rider ''should'' now be immune to boss attacks (i did not test this so i cannot promise)
+- Elder Wyverns now have Genders.
+- Elder Wyverns can now breed.
+- Elder Wyverns now have the right overlay.
+- Fixed Elder Wyvern Dino Entry.
+- Fixed multiple Elder Wyvern breath exploits.
+- Fixed Elder Wyvern breath not stopping on Consoles.
+
+
+## Changes:
+
+
+## New Items:
+- Added a Admin Chibi
+
+## Guide:
+- Added Patchnotes to the guide.
+- Changed over all our online updated functions over from our website to our Github.
+
+### Guide admin panel:
+
+
+### Custom spawning system:
+- Elder Wyvern  spawns can now be turned off.
+
+15/12/2024 Draconic Chronicles Version 600:
 
 ## Bug Fixes:
 - Fixed Fire Wyvern inventory health name.
