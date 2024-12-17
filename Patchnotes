@@ -1,3 +1,21 @@
+17/12/2024 Draconic Chronicles version 612:
+
+
+
+## Bug Fixes:
+- fixed Elder Wyvern sleeping tame.
+- fixed Elder Wyvern waking tame.
+- fixed adult Elder Wyvern not eating raw meat like it should.
+- Fixed Everglowing Coal description.
+- Fixed Elder Wyvern AI doing knockback.
+- Fixed Elder Wyvern AI not doing the intended amount of damage.
+
+
+
+### Guide admin panel:
+- Inferno Wyvern can now spawn on Thorny Dragon (This wil be auto set if Scorced Earth is detected)
+- Fixed Elder Dragon selected spawn display
+
 
 16/12/2024 Draconic Chronicles Version 609:
 
