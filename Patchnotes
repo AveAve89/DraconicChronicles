@@ -1,3 +1,37 @@
+23/12/2024 Draconic Chronicles version 632:
+
+
+
+## Bug Fixes:
+- Fixed Headless Hydra attack AI.
+- Fixed Headless Hydra banshee attack not hitting some creatures.
+- Fixed Elder Wyvern stomp not hitting some creatures.
+- Elder Wyvern no longer gets knocked around by attacks.
+- Fixed Draconic Guide no longer being given no new players.
+
+## Changes:
+- If Paleo Ark mod is detected and the Elder Wyvern is set to Rex spawns the spawner system will now change it to sabertooth spawns.
+- Draconic Ash (as a item) has been removed.
+- Artifact Dust (as a item) has been removed.
+- Draconic Ash has been added to the Draconic Wallet.
+- Draconic Ash has been added to the Draconic Wallet.
+- Added Draconic Ash counter to the Portal and Altar.
+- Added Artifact Dust counter to the Portal and Altar.
+- Draconic Ash is now tracked and saved on the server side.
+- Artifact Dust is now tracked and saved on the server side.
+
+## New Items:
+- Draconic Wallet has been added, use it to see how much of a certain Draconic Currency you have.
+
+## Guide:
+- A player list has been added, this list tracks the amount of ash, killed dragons, killed dinos and deaths of every player.
+
+### Guide admin panel:
+- Added a button to reset the player list.
+
+### Custom spawning system:
+- Flameforge Dragons no longer spawn within 16 foundation range of any foundation.
+
 19/12/2024 Draconic Chronicles version 615:
 
 ## Changes:
