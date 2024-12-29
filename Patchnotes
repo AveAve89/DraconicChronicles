@@ -1,3 +1,28 @@
+29/12/2024 Draconic Chronicles version 640:
+
+
+## Changes:
+- Elder Wyvern milk can now stack up to 100.
+- Milk fridge now reduces spoiling on Elder Wyvern Milk.
+
+
+## Guide:
+- Player list now rescans your name every time you are detected (to make sure the name changes if someone changes their name  or creates new character)
+- Adjusted Elder Wyvern guide page to show that their babies require Elder Wyvern milk.
+
+### Guide admin panel:
+A Discord webhook has been added (Thanks alot for the help with this Nanoh) with the following options:
+- Announce server online +  displays current mod version.
+- Announce player dead.
+- Announce usage of spend Draconic Ash and Artifact Dust. 
+This feature can be exspanded in the future, if theres something you would like to get added to it then please post it in #suggestions !
+
+### Custom spawning system:
+- If extinction is detected Flameforge Dragon will be auto moved to Carno.
+- Changed Structure detection and added it to every Creature.
+
+
+
 23/12/2024 Draconic Chronicles version 632:
 
 
