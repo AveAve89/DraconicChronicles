@@ -1,3 +1,15 @@
+09/01/2024 Draconic Chronicles  Version 664 :
+
+
+## Changes:
+- Changed Flameforge Dragon AI Controller.
+- Lowered Flameforge Dragon wander distance.
+- Lowered Flameforge Dragon Aggro Range.
+- Flameforge Dragon now drops Aggro faster.
+
+### Custom spawning system:
+- Structure detection  *should* now work with most structures.
+
 02/01/2025 Draconic Chronicles Version 651:
 
 ## Bug Fixes:
