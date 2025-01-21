@@ -1,3 +1,25 @@
+20/01/2024 Draconic Chronicles Version 689:
+
+
+## Changes:
+- Extinction Artifacts can now be crushed in the Altar. (Seriously Wildcard why are these not in the same location as all other artifacts?)
+- Elder Wyvern Wild Eggs without a nest will now be hunted down and thrown into a very hot pan to make me scrambled eggs for breakfast.
+- LOD optimisations for Elder Wyvern, Headless Hydra and Draconic Ancestor (Undead Dragon).
+- Tidal Dragon can now use its water pulse attack while its wild.
+- Elder Wyvern Fly Sprint increased by 10%.
+- Elder Wyvern now has Natural Armor that scales by level (max 200).
+
+## New Items:
+- Elder Wyvern Chibi has been added.
+
+
+## New Structure:
+- Draconic Milker, Every 5 minutes this Structure produces Milk from nearby and friendly female Wyverns,Inferno Wyverns, Elder Wyverns and Polar Dragons. (also increases milk decay timers by  x10 in its inventory)
+
+### Custom spawning system:
+- Simplified Dragon in range detection before spawning a Dragon.
+
+
 12/01/2024 Draconic Chronicles Version :CnC_Kittyanimebluesmash:668 :
 
 
