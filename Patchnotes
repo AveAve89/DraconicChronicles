@@ -1,5 +1,19 @@
-20/01/2024 Draconic Chronicles Version 689:
+01/02/2025 Draconic Chronicles Version 693:
 
+## Bug Fixes:
+- Draconic Milker no longer shares structure limit with some other structures.
+
+## Changes:
+- Enraging a wild Draconic Ancestor and then killing it now  gives 3 bones instead of 1.
+- The option to post the current alive spawns of the mod to the Discord webhook has been added.
+- The option to post Egg cleanup to the Discord webhook has been added.
+- Some Discord webhook posts now include the map now.
+
+## Custom Spawning System:
+- Admins can now set level intervals.
+
+
+20/01/2024 Draconic Chronicles Version 689:
 
 ## Changes:
 - Extinction Artifacts can now be crushed in the Altar. (Seriously Wildcard why are these not in the same location as all other artifacts?)
