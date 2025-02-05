@@ -1,3 +1,20 @@
+05/02/2025 Draconic Chronicles Version 706:
+
+
+## Bug Fixes:
+- Elder Wyvern baby can no longer be raised in a unintended way.
+- Elder Wyvern in the wild will no longer drop a second,3th ot 4th egg on server reboot.
+- Draconic Milker no longer shares structure limits with Ocean Platform.
+- Fixed multiple texture errors.
+
+## Guide:
+- Added spawn map for extinction.
+
+
+### Custom spawning system:
+- futher optimizations to lower load.
+
+
 01/02/2025 Draconic Chronicles Version 693:
 
 ## Bug Fixes:
