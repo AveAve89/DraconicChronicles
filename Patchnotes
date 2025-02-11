@@ -1,3 +1,18 @@
+11/02/2025 Draconic Chronicles version 715:
+
+## Bug Fixes:
+- Hopefully fixed one of our widgets blocking some pulling systems from other mods in single player (hopefully for real this time).
+- Wyvernicorn has decided it no longer has a appetite for kibble.
+
+## Changes:
+- Polar Dragon: File cleanup and small texture improvements.
+- Bloodstorm Dragon: File cleanup and small fix to bite when landed.
+- Tidal Dragon: File cleanup and fix to sleep loop anim.
+
+
+## Guide:
+- Fixed the mysterious ''esc'' button image.
+
 08/02/2025 Draconic Chronicles Version 711:
 
 - Hopefully fixed a issue where sometimes on some platforms one of our Widgets is blocking pulling mechanics from other mods.
