@@ -1,3 +1,8 @@
+22/02/2024 Draconic Chronicles Version 729:
+
+## Bug Fixes:
+- Fixed a exploit that is caused by a script that supposed to be stopping a exploit but instead of stopping that exploit it created another exploit because we just love exploits.
+
 21/02/2024 Draconic Chronicles Version  728:
 
 
