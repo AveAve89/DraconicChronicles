@@ -1,3 +1,23 @@
+08/03/2024 Draconic Chronicles Version 733:
+
+## Bug Fixes:
+- Our Chibis can no longer be spawned in by any Admin or Store mods.
+- Elder Wyvern LOD fixes.
+- Glowbulb Plants now should more accurately spread out.
+- Glowbulb Plants are no longer allowed to be locked.
+- Draconic Ash is now called Draconic Ash and not Draconic Dust in the player list.
+
+## Changes:
+- Flameforge Dragon its smelting can now be toggled on and off.
+- Cooldown between chibi resizer uses has been lowered from 30 seconds to 5 seconds.
+
+## New Items:
+- Chibi - Thunder Plague Pyro Wyvern has been added.
+- Chibi - BlazeWyv3rn-X9 has been added.
+
+
+# Known issues: Elder Wyvern wings are abit jagged in idle animation, i am working on a solution while typing this.
+
 22/02/2024 Draconic Chronicles Version 729:
 
 ## Bug Fixes:
