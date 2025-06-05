@@ -1,3 +1,28 @@
+05/06/2025 Draconic Chronicles Version 780:
+
+## Bug Fixes:
+- You can no longer open the Draconic Settings menu by pressing the interact button on a friendly player.
+- Elder Wyvern: Doing tail swipe while breathing will now correctly cancel the breath attack.
+- Elder Wyvern: Doing roar while breathing will now correctly cancel the breath attack.
+- Convert Arrow has been rebuild and should now carry over mutations and traits.
+- Fixed Elder Wyvern egg material when its spawned in a egg.
+- Increased Elder Wyvern ground detection when trying to spawn a egg.
+- Fixed Murder Potion Exploit.
+- Fixed Wyrm Anim Blueprint.
+
+## Changes:
+- Ability UI has been added to Hydro Dragon.
+- Ability UI has been added to Headless Hydra.
+- Rejuvenating Dragon now shows on its stat panel which stat increases healing done.
+- Elder Wyvern nests now start a 30 second timer when its parent has been defeated, after 30 seconds the egg will hatch into a new adult which puts down a new nest.
+- Elder Wyvern nests now self destruct if any other nests are found within 30k units.
+- Fixed Elder Wyvern nest LODs
+- Incubator now ejects the ready eggs at 300 units height (previously 1000 units)
+- Flameforge Dragon can now make charcoal.
+
+## Draconic Ash and Artifact Dust:
+#  Draconic Ash and Artifact Dust are in the middle of being fixed for 5.5, For now most of their functions have been turned off, they will return as soon as possible.
+
 27/04/2024 Draconic Chronicles Version 769:
 
 ## Bug Fixes:
