@@ -1,4 +1,19 @@
-05/06/2025 Draconic Chronicles Version 780:
+10/06/2025 Draconic Chronicles Version 786:
+
+## Bug Fixes:
+- Flameforge Dragons no longer attempts to blink with their whole body.
+- Tidal Dragon no longer attempts to blink with their whole body.
+- Polar Dragon no longer is attempting to do gymnastics while eating.
+- Fixed Ice Wyvern model missing.
+- Fixed Ice Wyvern missing Textures.
+- Fixed Dragonkin doing not so nice things when its trying to harvest a corpse.
+- Fixed Dive wing trail material.
+
+
+## Draconic Ash & Artifact Dust:
+- The Draconic Ash and Artifact Systems are now rebuild but are still consired ''Beta'' versions, both Draconic Ash and Artifact Dust are now stored in your Wallet and can now be traded:
+
+https://youtu.be/izpmbduIxyM05/06/2025 Draconic Chronicles Version 780:
 
 ## Bug Fixes:
 - You can no longer open the Draconic Settings menu by pressing the interact button on a friendly player.
