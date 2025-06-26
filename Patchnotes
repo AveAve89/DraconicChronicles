@@ -1,3 +1,15 @@
+26/06/2025 Draconic Chronicles Version 805:
+
+## Bug Fixes:
+- Futher changes to Elder Wyvern ground detection for egg spawn to avoid it spawing in the map roof at Astreos map.
+- Fixed Ice Wyvern breath.
+- Fixed a Exploit with Convert arrow.
+
+
+## Changes:
+- Reoptimized the LODS for the following creatures: Sand Dragon,Polar Dragon, Hydro Dragon, Rejuv Dragon.
+
+
 17/06/2025 Draconic Chronicles Version 795:
 
 ## Bug Fixes:
