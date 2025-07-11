@@ -1,3 +1,17 @@
+11/07/2025 Draconic Chronicles Version 822:
+
+## Bug Fixes:
+- Ice Wyvern females are now counted by the Draconic Milker structure.
+- Fixed Convert bow no longer working on Ice Wyvern.
+- Elder Wyvern no longer refuses to damage Fire Wyverns.
+
+## Changes:
+- You can now walk off a Elder Wyvern without taking fall damage (doesn't work when you are high in the air).
+- Baby Elder Wyvern can no longer be buffed.
+
+## Guide:
+- Multiple issues fixed in the background that prevented non English clients from changing spawn locations.
+
 26/06/2025 Draconic Chronicles Version 805:
 
 ## Bug Fixes:
