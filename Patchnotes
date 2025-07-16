@@ -1,3 +1,25 @@
+16/07/2025 Draconic Chronicles Version 829:
+
+## Bug Fixes:
+- Dragonkins have decided they have done enough gymnastics.
+- Headless Hydra have decided they have done enough gymnastics.
+- Glowveil have decided they have done enough gymnastics.
+- Fixed a example where the Hydro Dragon thinks its a ostrich.
+- Fixed a issue where the Wyvernicorn is mimicking the Hydro Dragon.
+
+
+## Changes:
+- Futher optimized LODs for Headless Hydra.
+- Futher optimized LODs for Elder Wyvern.
+- Futher optimized LODs for Flameforge Dragon.
+- Futher optimized LODs for Glowveil Dragon.
+- Futher optimized LODs for Crystal Wyvern.
+- Optimizations to the spawning system, to make the optimizations not feel like a nerf the spawn cycle has been reduced from 300seconds to 200 seconds.
+- Removed a older no longer used spawn removal system.
+
+## Guide:
+- A spawn log has been added to the admin panel.
+
 11/07/2025 Draconic Chronicles Version 822:
 
 ## Bug Fixes:
