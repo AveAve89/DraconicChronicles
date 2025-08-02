@@ -1,3 +1,22 @@
+02/08/2025 Draconic Chronicles Version 843:
+
+## Bug Fixes:
+- Gender Swap potion will no longer work if your creature is spayed/neutered.
+
+
+## Changes:
+- Temporarily turned off the abilty for glowveil to be released from cryopod while attempting to track down a mod priority issue.
+- Temporarily removed convert arrow while  attempting to track down a mod priority issue.
+
+## Guide:
+- The option to turn on ''beta'' mode has been added to the admin panel of the Draconic Guide:
+ Beta mod allows Creatures and structures currently in beta testing to be allowed to spawn and build. (be warned that beta means that things are unbalanced and broken so use at own risk!)
+- Fixed spawn count for the headless hydra showing some weird other wyvern instead.
+
+## Beta:
+- Added Shadow Wyvern, for future information please see #beta-information !
+
+
 16/07/2025 Draconic Chronicles Version 829:
 
 ## Bug Fixes:
