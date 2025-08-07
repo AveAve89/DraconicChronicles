@@ -1,3 +1,21 @@
+07/07/2025 Draconic Chronicles Version 848:
+
+
+## Bug Fixes:
+- Fixed queue crafting for all Healing Potions.
+- Fixed queue crafting for all Essences.
+
+## Changes:
+- Elder Wyvern now do step damage while flying/walking and can break trees.
+
+## Guide:
+- Guide now once again shows where a creature spawns close to.
+
+## Admin Panel:
+- Added a button to remove all spawned Elder Wyvern eggs currently in the wild.
+- Spawner cycle time can now be changed by Admins in the Admin panel of the Draconic Guide. (this is restricted to a minimal of 10 seconds to stop people from breaking their servers).
+
+
 02/08/2025 Draconic Chronicles Version 843:
 
 ## Bug Fixes:
