@@ -1,3 +1,9 @@
+14/08/2025 Draconic Chronicles Version 853:
+
+- Added a option for players to turn off analytics tracking in our ''player settings'' that you can bring up trough the radial menu.
+- Added a option for Admins to turn off analytics tracking in the Admin panel of the draconic guide, this turns off Analytics tracking for every player on the server no matter if they have it on or off in their player settings.
+- Added a ini setting  for Admins to turn off analytics tracking in the Admin panel of the draconic guide, this turns off Analytics tracking for every player on the server no matter if they have it on or off in their player settings. please see #ini-settings .
+
 07/07/2025 Draconic Chronicles Version 848:
 
 
