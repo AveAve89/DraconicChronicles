@@ -1,3 +1,16 @@
+20/08/2025 Draconic Chronicles Version 857: 
+
+### Shadow Wyvern:
+- Bite damage ~~60~~ => 80.
+- Max Fly Speed ~~750~~ => 900.
+- Melee damage multilier per level ~~0.05~~ => 0.06.
+- Fixed a bug where refreshing stacks at or above 10 still added more speed.
+- Damage now gets increased by 10% for every stack up to a max of 100%.
+
+### Draconic Converter:
+- Draconic Converter structure has been added and is now available for Beta testing.
+- for more information please see #beta-information .
+
 14/08/2025 Draconic Chronicles Version 853:
 
 - Added a option for players to turn off analytics tracking in our ''player settings'' that you can bring up trough the radial menu.
