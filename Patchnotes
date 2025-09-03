@@ -2,12 +2,16 @@
 
 ### Bug fixes:
 - Fixed Inferno Wyvern ''Hurt'' anim.
+- Fixed Undead Wyvern Crashing servers with its breath attack.
+- Fixed Ice Wyvern Crashing servers with its breath attack
 
 ### Changes:
 - In order to see if its still worth it to maintain the Hardcore mode the Hardcore mode setting is now being tracked by Analytics.
 - Spawner system Wild Creature in range detection ~~10k Unreal Units~~ => 5k Unreal Units.
 - Enrage Draconic Ancestor is now better at drifting. (I would advice to not try to cheese it)
 - Elder Wyvern babies now refuse to be put into a Cryopod,Dinoball or any other kind of modded ''Cryopod''.
+- Undead Wyvern got its breath back.
+- Ice Wyvern got its breath back.
 
 ## Guide:
 - Added a Guide page for Shadow Wyvern.
