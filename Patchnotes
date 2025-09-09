@@ -1,3 +1,16 @@
+09/09/2025 Draconic Chronicles Version 878:
+
+Due to a bug with previous update this update removes the hard block on the automated cryo in some mods for the Elder Wyvern baby until i find a different solution, Please keep in mind that growing up elder wyvern babies while its inside a cryopod is not the intended way to grow these up and will get blocked again in the very near future after i had more times for testing.
+
+### Bug fixes:
+- Fixed a Exploit that allow you to get more then 1 Shadow mote.
+- Fixed Shadow Wyvern giving a mote when dead.
+- Fixed Shadow Wyvern attack damage scaling when its attacking gets into bigger numbers.
+- Fixed not being able to interact with juveline Elder Wyvern.
+
+### Changes:
+- Added disable button to turn off Shadow Wyvern spawns.
+
 03/09/2025 Draconic Chronicles version 871: 
 
 ### Bug fixes:
