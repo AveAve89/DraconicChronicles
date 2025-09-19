@@ -1,3 +1,19 @@
+19/09/2025 Draconic Chronicles Version 885:
+
+### Bug fixes:
+- Fixed Elder Wyvern not being interact able. (this fix will allow babies to be cryod again, this is still unintended and will get fixed in a different way in the near future).
+- Bloodstorm Dragon no longer will attempt to put a fertilized egg in a wyvern nest.
+
+
+### Changes:
+- If Abberation is detected as a map the spawner system will now only attempt to spawn Wyrms and Glowveils.
+- Redone Elder Wyvern nests, hopefully now without small ghost nests...
+- Hardcore mode and all Hardcore creatures have been removed.
+
+## Guide:
+### Admin:
+- Spawner system systems have been changed, Admins can now select any wild creature as a spawn point, even those from other mods.
+
 09/09/2025 Draconic Chronicles Version 878:
 
 Due to a bug with previous update this update removes the hard block on the automated cryo in some mods for the Elder Wyvern baby until i find a different solution, Please keep in mind that growing up elder wyvern babies while its inside a cryopod is not the intended way to grow these up and will get blocked again in the very near future after i had more times for testing.
