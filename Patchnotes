@@ -1,3 +1,23 @@
+08/10/2025 Draconic Chronicles Version 905:
+
+### Bug fixes:
+- Shadow wyvern has decided its done pooping rejuv crystals.
+- Fixed pooping and eating animation for Undead Dragon.
+- Fixed pooping animation for Headless Hydra.
+- Fixed  Altar ''Summon SE Artifact Loot Box'' not working with the newer system.
+- Shadow Wyvern got its sounds back.
+
+## Changes:
+- Shadow Wyvern got its ability UI.
+
+## Guide:
+ ### Spawn Map V2:
+- Spawn Map now automatically detects current map. (no updates needed)
+- Spawn Map now automatically detects spawn areas. (no updates needed)
+- First time a map is loaded map sure to wait for all spawns to populate so the spawn map can detect the spawn areas, the spawn map is not a dino finder and it will show spawn areas, not exact spawn position.
+
+The spawn map should work without issues but please keep in mind that bugs can always show up and changes can and will be made in the future to make it better.
+
 19/09/2025 Draconic Chronicles Version 885:
 
 ### Bug fixes:
