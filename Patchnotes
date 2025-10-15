@@ -1,3 +1,14 @@
+15/10/2025 Draconic Chronicles Version 908:
+
+## Cleanup time:
+- Removed multiple no longer used functions in the CCA.
+- Cleanup the the spawning timers process.
+
+
+## Admin Panel:
+- Added a refresh button to the creature count.
+- Changed ''set'' button text to ''save'' to make it more clear.
+
 08/10/2025 Draconic Chronicles Version 905:
 
 ### Bug fixes:
