@@ -1,3 +1,23 @@
+08/10/2025 Draconic Chronicles Version 938:
+
+## Bug Fixes:
+-  Fixed Basic Healing potion setting health at 500.
+-  Fixed Minor Healing potion setting health at 500.
+-  Fixed Greater Healing potion setting health at 500.
+-  Fixed Supreme Healing potion setting health at 500.
+-  Fixed Pure Healing potion setting health at 500.
+
+## Changes:
+- Spawner got optimized.
+- Due to optimizations with the spawner Disable toggles sadly had to be reset.
+- Guide creature page showing where something spawns close to should now be fixed.
+- Spawn Count panel got reword and optimized.
+
+
+### Known issues:
+- Spawn map has extra ghost entries at the bottom.
+
+
 15/10/2025 Draconic Chronicles Version 908:
 
 ## Cleanup time:
