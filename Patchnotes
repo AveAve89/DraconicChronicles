@@ -1,3 +1,41 @@
+16/11/2025 Draconic Chronicles Version 946:
+
+## Bug Fixes:
+- Elder Wyvern can now spawn up to 27% higher in lvl compared to other creatures in the mod.
+- Summoning Bosses at the Portal now once again actually works.
+
+# This Update its main focus is stability and performance, this means i had to do things i am not fully happy with but the current state of game performance has given me no choice.
+
+
+
+## Changes:
+- Added LOD for Shadow Wyvern.
+- Reduced texture sizes from 2k to 1k for all emitters.
+
+  The following Creatures have had their texture solution reduced from 2k to 1k for Consoles:
+- Dragonkin.
+- Elder Wyvern.
+- Bloodstorm Dragon.
+- Polar Dragon.
+- Rejuvenating Dragon. (Only normal map)
+- Shadow Wyvern.
+- Tidal Dragon.
+- Undead Dragon.
+- Flameforge Dragon.
+- Glowveil Dragon.
+- Headless Hydra.
+
+## The following uncompleted and unreleased projects have been removed from the files and their progress put into indefinite hiatus (the following are project names and not release names):
+- MechaDragon.
+- PyrotekWyvern.
+- SnowstormWyvern.
+- ArassaxDragon_Lightning.
+- KnightBoss.
+- BossMount.
+- BossMountBreathFire.
+- BossAdd.
+
+
 08/10/2025 Draconic Chronicles Version 938:
 
 ## Bug Fixes:
