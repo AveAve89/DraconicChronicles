@@ -1,3 +1,16 @@
+02/12/2025 Draconic Chronicles Version 949:
+
+## Changes:
+- Glowbulb now has a 10% chance to spawn from any wild Glowveil no matter the map.
+- Added ''no valid creatures in range'' warning to converter when in fact there are no valid creatures in range.
+- Added ''help'' button to Converter.
+- All Creatures (except default wyverns) included in the mod are now in a more festive mood suitable for December.
+
+## Fixes:
+- Fixed Headless Hydra head drop chance that got bugged out with the spawning system updates.
+- Fixed 2nd boss summoning.
+
+
 16/11/2025 Draconic Chronicles Version 946:
 
 ## Bug Fixes:
