@@ -1,3 +1,16 @@
+11/01/2025 Draconic Chronicles Version 971:
+
+## Fixes: 
+- Fixed incubator speed not being able to be set.
+- Fixed some Creatures from the mod not giving Ash when killed.
+- Fixed not getting Ash when killing a Creature from the mod while riding a Creature. (Please keep in mind that some Creatures from other mods might still not give kill credit, sadly there is nothing i can do about this due to the creator not setting projectile attack owner correctly).
+- Fixed save import/export for spawner settings.
+
+## Changes:
+- Spawn log now shows the newest entry on top instead of at the bottom.
+- Changed background opacity for the drop down box when trying to change spawn targets.
+- Added a option to the Admin panel that allow Admins to see all nests,see which nests are empty or have a egg,destroy all nests,destroy specific nests and teleport to nests.
+
 11/12/2025 Draconic Chronicles Version 953:
 
 ## Changes:
