@@ -1,3 +1,22 @@
+02/02/2025 Draconic Chronicles Version 987:
+
+## Fixes: 
+- Collector no gathers more then the storage limit should allow.
+- Wild Flameforge Dragon no longer shows a option to turn on/off smelting.
+- Wallet can no longer be stolen by that annoying bird that steals things.
+- Fixed version display no longer loading.
+
+## Changes:
+- Made spawn map littlebit more accurate.
+- In order to fix the Shadow Wyvern drain aura bugging out after a server reboot it has been changed to the following: after 10 buff stacks you get another buff that lasts for 30 seconds, after these 30 seconds you will need another kill in order to regain the drain aura buff.
+
+## Balancing:
+
+### Flameforge Dragon:
+- Gained faster flying turning radius when not sprinting.
+- While flying it is no longer afraid of getting close to the ground.
+- Realised they are able to defend themself.
+
 11/01/2025 Draconic Chronicles Version 971:
 
 ## Fixes: 
