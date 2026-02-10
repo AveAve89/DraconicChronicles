@@ -1,4 +1,30 @@
-02/02/2025 Draconic Chronicles Version 987:
+09/02/2026 Draconic Chronicles version 992: 
+
+## Fixes: 
+- Fixed a issue with spawn settings replication for admins.
+
+## Changes:
+- Further optimizations.
+- Optimized Textures for Console for Altar.
+- Optimized Textures for Console for Portal.
+- Optimized Textures for Console for Chair.
+- Optimized Textures for Console for Shrine.
+- Optimized Textures for Console for Collector.
+- Optimized Textures for Console for Fabricator.
+- Optimized Textures for Console for Ballista.
+- Optimized Textures for Console for Milkfridge.
+- Optimized Textures for Console for Milker.
+- Optimized Textures for Console for Generator.
+- Optimized Textures for Console for Cauldron.
+- Optimized Textures for Console for Guide.
+- Added Information at the spawn map page for a question that gets asked almost daily.
+- Collector settings can now only be changed by people in the same tribe.
+
+## Admin:
+To make it easier for admins the following ini option have been added:
+- ShutdownSpawner=True/False           <--- Completely turns off the spawning system.
+
+02/02/2026 Draconic Chronicles Version 987:
 
 ## Fixes: 
 - Collector no gathers more then the storage limit should allow.
