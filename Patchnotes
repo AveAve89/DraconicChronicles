@@ -1,3 +1,17 @@
+18/02/2026 Draconic Chronicles version 998:
+
+## Changes:
+- Upon server start/login the CCA now has a 10 second delay before it starts firing any scripts, this is hopefully to help those that log into giant basses and then wonder why they crash upon login.
+- Converter can now turn Hide into Draconic Hides, the talons are planned to be added to this in the future aswell.
+
+## Fixes:
+- Milker no longer attempts to milk elder wyvern babies.
+
+## Admin:
+To make it easier for admins the following ini option have been added:
+- KillCCA=True/False           <--- WARNING: Thiss will 100% murder the CCA, this kills all scripts being run by the mod including all ingame Admin controls!!!!
+
+
 09/02/2026 Draconic Chronicles version 992: 
 
 ## Fixes: 
