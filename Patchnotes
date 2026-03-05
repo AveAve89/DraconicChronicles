@@ -1,3 +1,24 @@
+05/03/2026 Draconic Chronicles version 1013: 
+
+## Changes:
+- Chibis from the altar now get added to player inventory.
+
+## Fixes:
+- Fixed some Creatures not being able to eat Narcotics.
+
+## Performance:
+- Turned on Nanite for all meshes including Skeletal Meshes (Newly supported in Unreal Engine since 5.5)
+
+## Admin:
+- Added the option to remove all current Guide structures on the map.
+
+
+## Balancing:
+
+### Shadow Wyvern:
+- Torpidity recovery 0.01 -> 1.0
+- Health 1024 -> 950
+
 18/02/2026 Draconic Chronicles version 998:
 
 ## Changes:
