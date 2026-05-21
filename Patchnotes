@@ -1,3 +1,28 @@
+21/05/2026 Draconic Chronicles Version 1079:
+
+## Changes:
+- Shadow Wyvern now stays asleep ~~4~~ -> 6 seconds.
+- Shadow Wyvern now ejects all inventory items on to the floor after the taming progress and all items are marked with a giant black and red beam.
+- Eternal Sand Draconic Essence Stone required ~~1500~~ -> 1000.
+- Draconic Shadow Essence motes required ~~45~~ -> 30.
+- Draconic Shadow Essence Black Pearls required ~~250~~ -> 100.
+- Azure Dracoinc Essence Eternal Ice required ~~15~~ -> 10.
+- Embervein Draconic Essence Metal into required ~~2500~~ -> 2000.
+- Embervein Draconic Essence Obsidian required ~~1500~~ -> 750.
+- Rejuvenating Draconic Essence Wood required ~~ 2500~~ -> 2000.
+- Rejuvenating Draconic Essence Fibers required ~~ 2000~~ -> 1500.
+- Rejuvenating Draconic Essence Thatch required ~~ 2750~~ -> 2100.
+- Mythical Draconic Essence Rejuv Crystals required ~~250~~ -> 175.
+- Mythical Draconic Essence Draconic Primal Crystal required ~~30~~ -> 20.
+- Draconic Portal Stone required ~~3250~~ -> 2750.
+- Draconic Altar Stone required ~~7500~~ -> 2200.
+- Draconic Cauldron Metal ingot  required ~~200~~ -> 50.
+- Draconic Shrine Stone required ~~800~~ -> 250.
+- Spawning system now defaults to 30 seconds if not being run on a server and default amount is still set.
+
+
+## Fixes:
+- Fixed Ability bar scaling for Shadow Wyvern.
 08/03/2026 Draconic Chronicles version 1015:
 
 ## Changes:
